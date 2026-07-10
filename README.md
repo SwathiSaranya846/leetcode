@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SwathiSaranya846/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/SwathiSaranya846/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiSaranya846/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
