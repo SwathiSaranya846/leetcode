@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiSaranya846/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SwathiSaranya846/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
