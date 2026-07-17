@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SwathiSaranya846/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SwathiSaranya846/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SwathiSaranya846/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
