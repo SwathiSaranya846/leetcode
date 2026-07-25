@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SwathiSaranya846/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SwathiSaranya846/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
+| [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
 | [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SwathiSaranya846/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0567-permutation-in-string) |
+| [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SwathiSaranya846/leetcode/tree/master/0207-course-schedule) |
+| [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
