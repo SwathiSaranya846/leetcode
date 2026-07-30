@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SwathiSaranya846/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SwathiSaranya846/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SwathiSaranya846/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiSaranya846/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwathiSaranya846/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiSaranya846/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
