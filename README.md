@@ -145,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SwathiSaranya846/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/SwathiSaranya846/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/SwathiSaranya846/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SwathiSaranya846/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/SwathiSaranya846/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SwathiSaranya846/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
