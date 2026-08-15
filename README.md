@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SwathiSaranya846/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/SwathiSaranya846/leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/SwathiSaranya846/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwathiSaranya846/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
 | [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/SwathiSaranya846/leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SwathiSaranya846/leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SwathiSaranya846/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SwathiSaranya846/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwathiSaranya846/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/SwathiSaranya846/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwathiSaranya846/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
 ## Design
