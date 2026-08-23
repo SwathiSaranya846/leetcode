@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SwathiSaranya846/leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/SwathiSaranya846/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SwathiSaranya846/leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -312,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SwathiSaranya846/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SwathiSaranya846/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SwathiSaranya846/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SwathiSaranya846/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
