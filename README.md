@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SwathiSaranya846/leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/SwathiSaranya846/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0697-degree-of-an-array) |
 | [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
+| [2965-find-missing-and-repeated-values](https://github.com/SwathiSaranya846/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SwathiSaranya846/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SwathiSaranya846/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SwathiSaranya846/leetcode/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/SwathiSaranya846/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SwathiSaranya846/leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwathiSaranya846/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/SwathiSaranya846/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
