@@ -1,0 +1,45 @@
+class Solution {
+    public int findShortestSubArray(int[] nums) {
+
+        HashMap<Integer, Integer> freq = new HashMap<>();
+        HashMap<Integer, Integer> first = new HashMap<>();
+
+        int degree = 0;
+
+        // Find frequency and first occurrence
+        for (int i = 0; i < nums.length; i++) {
+
+            int num = nums[i];
+
+            freq.put(num, freq.getOrDefault(num, 0) + 1);
+
+            if (!first.containsKey(num)) {
+                first.put(num, i);
+            }
+
+            degree = Math.max(degree, freq.get(num));
+        }
+
+        int answer = nums.length;
+
+        HashMap<Integer, Integer> last = new HashMap<>();
+
+        // Find last occurrence
+        for (int i = 0; i < nums.length; i++) {
+            last.put(nums[i], i);
+        }
+
+        // Find minimum subarray length
+        for (int num : freq.keySet()) {
+
+            if (freq.get(num) == degree) {
+
+                int length = last.get(num) - first.get(num) + 1;
+
+                answer = Math.min(answer, length);
+            }
+        }
+
+        return answer;
+    }
+}
