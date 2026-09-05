@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiSaranya846/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SwathiSaranya846/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiSaranya846/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SwathiSaranya846/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SwathiSaranya846/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwathiSaranya846/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/SwathiSaranya846/leetcode/tree/master/0460-lfu-cache) |
 ## Monotonic Stack
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SwathiSaranya846/leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwathiSaranya846/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2965-find-missing-and-repeated-values](https://github.com/SwathiSaranya846/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/SwathiSaranya846/leetcode/tree/master/0460-lfu-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
