@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SwathiSaranya846/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SwathiSaranya846/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SwathiSaranya846/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiSaranya846/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/SwathiSaranya846/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwathiSaranya846/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SwathiSaranya846/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiSaranya846/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/SwathiSaranya846/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/SwathiSaranya846/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SwathiSaranya846/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwathiSaranya846/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
