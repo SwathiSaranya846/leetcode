@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SwathiSaranya846/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SwathiSaranya846/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SwathiSaranya846/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -393,5 +394,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SwathiSaranya846/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/SwathiSaranya846/leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
