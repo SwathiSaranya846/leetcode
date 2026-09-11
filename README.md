@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SwathiSaranya846/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SwathiSaranya846/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SwathiSaranya846/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/SwathiSaranya846/leetcode/tree/master/0205-isomorphic-strings) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SwathiSaranya846/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SwathiSaranya846/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/SwathiSaranya846/leetcode/tree/master/0072-edit-distance) |
@@ -403,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SwathiSaranya846/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/SwathiSaranya846/leetcode/tree/master/0528-random-pick-with-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SwathiSaranya846/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SwathiSaranya846/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
