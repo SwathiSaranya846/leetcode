@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SwathiSaranya846/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SwathiSaranya846/leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/SwathiSaranya846/leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/SwathiSaranya846/leetcode/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SwathiSaranya846/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
