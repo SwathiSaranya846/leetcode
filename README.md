@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SwathiSaranya846/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SwathiSaranya846/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SwathiSaranya846/leetcode/tree/master/0041-first-missing-positive) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SwathiSaranya846/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiSaranya846/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
