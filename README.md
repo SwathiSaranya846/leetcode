@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SwathiSaranya846/leetcode/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/SwathiSaranya846/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
