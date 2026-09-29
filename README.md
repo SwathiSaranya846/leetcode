@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SwathiSaranya846/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SwathiSaranya846/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SwathiSaranya846/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SwathiSaranya846/leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiSaranya846/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SwathiSaranya846/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SwathiSaranya846/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SwathiSaranya846/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SwathiSaranya846/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwathiSaranya846/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/SwathiSaranya846/leetcode/tree/master/0182-duplicate-emails) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SwathiSaranya846/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
