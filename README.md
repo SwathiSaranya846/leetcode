@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/SwathiSaranya846/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/SwathiSaranya846/leetcode/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/SwathiSaranya846/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/SwathiSaranya846/leetcode/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/SwathiSaranya846/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
