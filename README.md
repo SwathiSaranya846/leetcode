@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SwathiSaranya846/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SwathiSaranya846/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SwathiSaranya846/leetcode/tree/master/0041-first-missing-positive) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SwathiSaranya846/leetcode/tree/master/0141-linked-list-cycle) |
