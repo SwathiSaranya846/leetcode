@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SwathiSaranya846/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/SwathiSaranya846/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/SwathiSaranya846/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/SwathiSaranya846/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
