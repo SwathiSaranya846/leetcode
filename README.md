@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SwathiSaranya846/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiSaranya846/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SwathiSaranya846/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwathiSaranya846/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwathiSaranya846/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SwathiSaranya846/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/SwathiSaranya846/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
 ## Queue
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SwathiSaranya846/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SwathiSaranya846/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiSaranya846/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwathiSaranya846/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SwathiSaranya846/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/SwathiSaranya846/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SwathiSaranya846/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SwathiSaranya846/leetcode/tree/master/0733-flood-fill) |
 | [2965-find-missing-and-repeated-values](https://github.com/SwathiSaranya846/leetcode/tree/master/2965-find-missing-and-repeated-values) |
