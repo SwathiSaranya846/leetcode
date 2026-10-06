@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SwathiSaranya846/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SwathiSaranya846/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/SwathiSaranya846/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SwathiSaranya846/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SwathiSaranya846/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/SwathiSaranya846/leetcode/tree/master/0085-maximal-rectangle) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SwathiSaranya846/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SwathiSaranya846/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SwathiSaranya846/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SwathiSaranya846/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SwathiSaranya846/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwathiSaranya846/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
