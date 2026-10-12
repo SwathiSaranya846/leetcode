@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SwathiSaranya846/leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/SwathiSaranya846/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SwathiSaranya846/leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwathiSaranya846/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/SwathiSaranya846/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/SwathiSaranya846/leetcode/tree/master/0528-random-pick-with-weight) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SwathiSaranya846/leetcode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SwathiSaranya846/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
