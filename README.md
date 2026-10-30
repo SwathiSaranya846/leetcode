@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SwathiSaranya846/leetcode/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/SwathiSaranya846/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SwathiSaranya846/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/SwathiSaranya846/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
 | ------- |
