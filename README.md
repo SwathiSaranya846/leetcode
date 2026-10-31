@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SwathiSaranya846/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SwathiSaranya846/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0997-find-the-town-judge](https://github.com/SwathiSaranya846/leetcode/tree/master/0997-find-the-town-judge) |
+| [1710-maximum-units-on-a-truck](https://github.com/SwathiSaranya846/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/SwathiSaranya846/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SwathiSaranya846/leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/SwathiSaranya846/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1710-maximum-units-on-a-truck](https://github.com/SwathiSaranya846/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/SwathiSaranya846/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/SwathiSaranya846/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Trie
 |  |
 | ------- |
