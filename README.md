@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiSaranya846/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SwathiSaranya846/leetcode/tree/master/0455-assign-cookies) |
 | [0528-random-pick-with-weight](https://github.com/SwathiSaranya846/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0621-task-scheduler](https://github.com/SwathiSaranya846/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/SwathiSaranya846/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SwathiSaranya846/leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/SwathiSaranya846/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/SwathiSaranya846/leetcode/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/SwathiSaranya846/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0697-degree-of-an-array) |
 | [0981-time-based-key-value-store](https://github.com/SwathiSaranya846/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SwathiSaranya846/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiSaranya846/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SwathiSaranya846/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SwathiSaranya846/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/SwathiSaranya846/leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/SwathiSaranya846/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SwathiSaranya846/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SwathiSaranya846/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SwathiSaranya846/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwathiSaranya846/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/SwathiSaranya846/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SwathiSaranya846/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SwathiSaranya846/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiSaranya846/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SwathiSaranya846/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SwathiSaranya846/leetcode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/SwathiSaranya846/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Trie
