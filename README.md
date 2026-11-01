@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiSaranya846/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiSaranya846/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SwathiSaranya846/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/SwathiSaranya846/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwathiSaranya846/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/SwathiSaranya846/leetcode/tree/master/0164-maximum-gap) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SwathiSaranya846/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiSaranya846/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/SwathiSaranya846/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/SwathiSaranya846/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SwathiSaranya846/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
