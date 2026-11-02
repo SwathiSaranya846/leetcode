@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SwathiSaranya846/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiSaranya846/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiSaranya846/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SwathiSaranya846/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SwathiSaranya846/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SwathiSaranya846/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SwathiSaranya846/leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SwathiSaranya846/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SwathiSaranya846/leetcode/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SwathiSaranya846/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiSaranya846/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SwathiSaranya846/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SwathiSaranya846/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/SwathiSaranya846/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/SwathiSaranya846/leetcode/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/SwathiSaranya846/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -557,4 +560,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SwathiSaranya846/leetcode/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
