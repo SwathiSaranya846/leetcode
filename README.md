@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwathiSaranya846/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiSaranya846/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SwathiSaranya846/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SwathiSaranya846/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiSaranya846/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/SwathiSaranya846/leetcode/tree/master/0528-random-pick-with-weight) |
@@ -570,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SwathiSaranya846/leetcode/tree/master/0322-coin-change) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SwathiSaranya846/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
